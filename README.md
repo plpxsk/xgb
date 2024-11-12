@@ -1,3 +1,7 @@
+# XGBoost with nested cross validation
+
+In python, with `scikit-learn` and `xgboost`
+
 # Usage
 
 Install into virtual environment:
